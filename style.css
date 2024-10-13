@@ -1,0 +1,45 @@
+/*
+Theme Name: Gegensanktionen
+Theme URI: https://github.com/ooehme/gegensaktionen-wp-theme
+Author: Oliver Oehme
+Author URI: https://oliveroehme.de/
+Description: A modern responsive WordPress theme using Bootstrap, jQuery, and Font Awesome for gegensanktionen.de.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: gegensanktionen
+*/
+
+/* Add your custom styles here */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.site-header {
+    margin-bottom: 2rem;
+}
+
+.site-footer {
+    margin-top: 2rem;
+}
+
+.widget-title {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.entry-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.entry-meta {
+    font-size: 0.875rem;
+    color: #6c757d;
+    margin-bottom: 1rem;
+}
+
+.entry-content {
+    margin-bottom: 2rem;
+}
